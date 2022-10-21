@@ -5,7 +5,7 @@ Bruno Andrade
 ## 1. De epidemia a pandemia
 
 <p>
-<img style="float: left; margin:5px 20px 15px 1px; width:45%" src="../images/coronavirus.jpg">
+<img style="float: left; margin:5px 20px 15px 1px; width:45%" src="images/coronavirus.jpg">
 </p>
 <p>
 Em dezembro de 2019, o coronavírus COVID-19 foi identificado pela
